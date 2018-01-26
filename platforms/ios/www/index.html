@@ -5,17 +5,18 @@
         <meta http-equiv="Content-type" content="text/html; charset=utf-8">
             <script type="text/javascript" charset="utf-8" src="cordova.js"></script>
             <script type="text/javascript" charset="utf-8">
+                
                 function hybridActionPlugin() {
                     cordova.exec(testSuccess,testFailed,"iOSHybridActionPlugin","hybridAction",["Web与Native交互传递参数！"]);
                 }
-                function testSuccess(msg) {
-                    alert(msg);
-                }
-                function testFailed(msg) {
-                    alert('failed: ' + msg);
-                }
+            function testSuccess(msg) {
+                alert(msg);
+            }
+            function testFailed(msg) {
+                alert('failed: ' + msg);
+            }
             </script>
-    </head>
+            </head>
     
     <body style="padding-top:100px">
         <button style="font-size:17px;" onclick="hybridActionPlugin();">交互按钮</button>

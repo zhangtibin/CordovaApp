@@ -12,6 +12,33 @@
     },
     "cordova-plugin-console": {
       "PACKAGE_NAME": "com.sh5i5j.CordovaApp"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.sh5i5j.CordovaApp"
+    },
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "com.sh5i5j.CordovaApp"
+    },
+    "cordova-plugin-contacts": {
+      "PACKAGE_NAME": "com.sh5i5j.CordovaApp"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.sh5i5j.CordovaApp"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.sh5i5j.CordovaApp"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.sh5i5j.CordovaApp"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.sh5i5j.CordovaApp"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.sh5i5j.CordovaApp"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.sh5i5j.CordovaApp"
     }
   },
   "dependent_plugins": {}
