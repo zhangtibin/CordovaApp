@@ -1,0 +1,18 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.sh5i5j.CordovaApp"
+    },
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "com.sh5i5j.CordovaApp"
+    }
+  },
+  "dependent_plugins": {}
+}
